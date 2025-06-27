@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Nanthu0212/Groceries_Website.git/static/css/main.9d0934b1.css",
+    "main.js": "/Nanthu0212/Groceries_Website.git/static/js/main.11f73989.js",
+    "static/js/453.8158ca89.chunk.js": "/Nanthu0212/Groceries_Website.git/static/js/453.8158ca89.chunk.js",
+    "static/media/img2.jpg": "/Nanthu0212/Groceries_Website.git/static/media/img2.af09b2d3eae456d80ee5.jpg",
+    "static/media/vegetables.jpg": "/Nanthu0212/Groceries_Website.git/static/media/vegetables.929e22189b313a609daa.jpg",
+    "static/media/logo.png": "/Nanthu0212/Groceries_Website.git/static/media/logo.bcc6fb12bfb71a233282.png",
+    "static/media/img1.png": "/Nanthu0212/Groceries_Website.git/static/media/img1.59b79361811290ff519c.png",
+    "static/media/img5.jpg": "/Nanthu0212/Groceries_Website.git/static/media/img5.70380366c162db56d623.jpg",
+    "static/media/snack.jpg": "/Nanthu0212/Groceries_Website.git/static/media/snack.a1dba8c2c2b46139320a.jpg",
+    "static/media/img3.jpeg": "/Nanthu0212/Groceries_Website.git/static/media/img3.6e8740a2a89548cacaec.jpeg",
+    "static/media/img3.jpg": "/Nanthu0212/Groceries_Website.git/static/media/img3.9ddccb468ba3a6a6f1bc.jpg",
+    "static/media/img5.jpeg": "/Nanthu0212/Groceries_Website.git/static/media/img5.660bc524f077a05d6e26.jpeg",
+    "static/media/img6.jpg": "/Nanthu0212/Groceries_Website.git/static/media/img6.b600cd68509e5235b23c.jpg",
+    "static/media/icecream.jpeg": "/Nanthu0212/Groceries_Website.git/static/media/icecream.1e328c3d0ec128ca6e7c.jpeg",
+    "static/media/img4.jpeg": "/Nanthu0212/Groceries_Website.git/static/media/img4.303bec64b3b56e35e0eb.jpeg",
+    "static/media/img2.jpeg": "/Nanthu0212/Groceries_Website.git/static/media/img2.2c33335e226b45119a1f.jpeg",
+    "static/media/img4.jpg": "/Nanthu0212/Groceries_Website.git/static/media/img4.17d4c43323862d92fa95.jpg",
+    "static/media/img1.jpeg": "/Nanthu0212/Groceries_Website.git/static/media/img1.c8e40085ffa34ae26b45.jpeg",
+    "static/media/img6.jpeg": "/Nanthu0212/Groceries_Website.git/static/media/img6.1a09cb57c99f57ff698b.jpeg",
+    "static/media/fruit.jpeg": "/Nanthu0212/Groceries_Website.git/static/media/fruit.81ec64ea3717910b2643.jpeg",
+    "index.html": "/Nanthu0212/Groceries_Website.git/index.html",
+    "main.9d0934b1.css.map": "/Nanthu0212/Groceries_Website.git/static/css/main.9d0934b1.css.map",
+    "main.11f73989.js.map": "/Nanthu0212/Groceries_Website.git/static/js/main.11f73989.js.map",
+    "453.8158ca89.chunk.js.map": "/Nanthu0212/Groceries_Website.git/static/js/453.8158ca89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d0934b1.css",
+    "static/js/main.11f73989.js"
+  ]
+}
